@@ -1,0 +1,5 @@
+{
+  "name": "Smart Campus Management System",
+  "description": "A comprehensive platform for managing students, courses, attendance, and campus announcements with a real-time database.",
+  "requestFramePermissions": []
+}
